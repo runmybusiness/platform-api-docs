@@ -8,6 +8,7 @@ toc_footers:
   - <a href='mailto:helpdesk@runmybusiness.com?subject=Platform+API+Help'>Email Support</a>
 
 includes:
+  - authentication
   - errors
 
 search: true
