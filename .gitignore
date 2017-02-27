@@ -1,5 +1,6 @@
 
 index.html
-js/
-images/
-css/
+js/*
+images/all.*
+css/style.*
+css/fonts/*
